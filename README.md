@@ -18,3 +18,6 @@ Therefore, the APP is developed to have full functionality in collecting machine
 
 5. detection.py
   - Detect the machine's operational status such as operation on/off/abort and record the parameters of each operation.
+
+# NOTE:
+This project has been released and sold to several big companies in Japan. Due to confidentiality, I cannot reveal the key codes, however, you may find some useful functionality or tricks I have created.
